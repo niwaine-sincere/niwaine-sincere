@@ -19,17 +19,4 @@ Web development projects, open-source projects, student tech projects, and creat
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-name: WakaTime Stats
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
