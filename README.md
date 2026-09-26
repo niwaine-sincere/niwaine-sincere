@@ -16,4 +16,5 @@ Web development projects, open-source projects, student tech projects, and creat
 
 ![profile views](https://komarev.com/ghpvc/?username=niwaine-sincere&color=blue)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
