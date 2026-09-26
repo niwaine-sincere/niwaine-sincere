@@ -18,5 +18,9 @@ Web development projects, open-source projects, student tech projects, and creat
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=niwaine-sincere)](https://git.io/streak-stats)
 
+## 📈 My Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/niwaine-sincere/niwaine-sincere/output/github-contribution-grid-snake.svg)
 
