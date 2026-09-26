@@ -23,4 +23,6 @@ Web development projects, open-source projects, student tech projects, and creat
 ## 📈 My Contributions
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/niwaine-sincere/niwaine-sincere/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Contributions
 
+[View my GitHub contributions](https://github.com/niwaine-sincere)
