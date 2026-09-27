@@ -14,15 +14,26 @@ Web development projects, open-source projects, student tech projects, and creat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 🌐 Web Development
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![profile views](https://komarev.com/ghpvc/?username=niwaine-sincere&color=blue)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=niwaine-sincere)](https://git.io/streak-stats)
 
-## 📈 My Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/niwaine-sincere/niwaine-sincere/output/github-contribution-grid-snake.svg)
-## 📊 GitHub Contributions
-
-[View my GitHub contributions](https://github.com/niwaine-sincere)
