@@ -30,6 +30,9 @@ Web development projects, open-source projects, student tech projects, and creat
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+
 ![profile views](https://komarev.com/ghpvc/?username=niwaine-sincere&color=blue)
 
 <!--START_SECTION:waka-->
