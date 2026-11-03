@@ -1,8 +1,8 @@
-#Hi there 👋<br></br>
- ##I AM NIWAINE SINCERE<br></br>
- *FRONT END DEVELOPER
+Hi there 👋<br></br>
+ I AM NIWAINE SINCERE<br></br>
+ FRONT END DEVELOPER
 
-##🌱 I’m currently expanding skill in;
+🌱 I’m currently expanding skill in;
 💻 JavaScript, React, Node.js, databases, Git & GitHub, and modern web development.
 Web development projects, open-source projects, student tech projects, and creative applications that solve real-world problems.
 
